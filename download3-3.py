@@ -8,6 +8,10 @@ sys.stderr = io.TextIOWrapper(sys.stderr.detach(), encoding = 'utf-8')
 
 API = "http://www.mois.go.kr/gpms/view/jsp/rss/rss.jsp"
 
+
+print('hello')
+
+
 values = {
 
 'ctxCd':'1001'
