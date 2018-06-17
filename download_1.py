@@ -10,6 +10,8 @@ imgUrl ="http://post.phinf.naver.net/20160621_169/1466482468068lmSHj_JPEG/If7GeI
 htmlURL ="http://google.com"
 
 # save path 설정
+print("hi")
+
 savePath1 ="c:/test1.jpg"
 savePath2 ="c:/index.html"
 
